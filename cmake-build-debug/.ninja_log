@@ -1,0 +1,11 @@
+# ninja log v5
+1	849	7206465704018474	CMakeFiles/Lab_Practical.dir/main.cpp.obj	ee40e7336f5d17c3
+3	85	7206476059114711	CMakeFiles/Lab_Practical.dir/prac-5.c.obj	6cc8039462e2bf60
+2	81	7206476239041634	Lab_Practical.exe	bb56536abe383103
+0	74	7206475175911571	CMakeFiles/Lab_Practical.dir/prac-4.c.obj	fbb1ab60585f36f6
+0	147	7206482708157147	build.ninja	ada2a7d119e61a53
+1	81	7206467943802921	CMakeFiles/Lab_Practical.dir/prac-2.c.obj	9ac620d207b031a0
+0	89	7206466957089649	CMakeFiles/Lab_Practical.dir/prac-1.c.obj	5931cb8894f93b69
+3	66	7206472755434798	CMakeFiles/Lab_Practical.dir/prac-3.c.obj	87154bd71e264678
+2	70	7206483064957105	CMakeFiles/Lab_Practical.dir/prac-5.c.obj	6cc8039462e2bf60
+70	187	7206483066080625	Lab_Practical.exe	bb56536abe383103

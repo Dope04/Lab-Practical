@@ -1,0 +1,3 @@
+C:/Users/monda/CLionProjects/Lab Practical/cmake-build-debug/CMakeFiles/Lab_Practical.dir
+C:/Users/monda/CLionProjects/Lab Practical/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/monda/CLionProjects/Lab Practical/cmake-build-debug/CMakeFiles/rebuild_cache.dir
