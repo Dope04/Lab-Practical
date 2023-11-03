@@ -9,5 +9,5 @@ int main()
     b=a-b;
     a=a-b;
     printf("The new value of A is:%d\n",a);
-    printf("The new value of B is:%d\n",b)
+    printf("The new value of B is:%d\n",b);
 }
