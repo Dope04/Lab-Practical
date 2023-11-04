@@ -2,8 +2,7 @@
 #include <stdio.h>
 int main() {
     int a, b, c, d, e;
-    int add, sub, mult;
-    float f,div;
+    float f;
     printf("Enter two numbers:");
     scanf("%d %d", &a, &b);
     c = a + b;
