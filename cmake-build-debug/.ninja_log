@@ -1,11 +1,11 @@
 # ninja log v5
 1	849	7206465704018474	CMakeFiles/Lab_Practical.dir/main.cpp.obj	ee40e7336f5d17c3
-4	312	7207040895402263	CMakeFiles/Lab_Practical.dir/prac-5.c.obj	6cc8039462e2bf60
 102	215	7207903781005778	Lab_Practical.exe	5a7cd174d1f1abf7
+4	312	7207040895402263	CMakeFiles/Lab_Practical.dir/prac-5.c.obj	6cc8039462e2bf60
+1	163	7207964374588347	build.ninja	ada2a7d119e61a53
 1	205	7207736119511689	CMakeFiles/Lab_Practical.dir/prac-4.c.obj	fbb1ab60585f36f6
-1	163	7207912946409219	build.ninja	ada2a7d119e61a53
-0	112	7207291704942543	CMakeFiles/Lab_Practical.dir/prac-2.c.obj	9ac620d207b031a0
 1	163	7207280677328017	CMakeFiles/Lab_Practical.dir/prac-1.c.obj	5931cb8894f93b69
+0	112	7207291704942543	CMakeFiles/Lab_Practical.dir/prac-2.c.obj	9ac620d207b031a0
 1	91	7207314670927509	CMakeFiles/Lab_Practical.dir/prac-3.c.obj	87154bd71e264678
 11	142	7207056775438257	CMakeFiles/Lab_Practical.dir/prac/practical.c.obj	6a2e24f99166f89e
 5	103	7207244952734708	CMakeFiles/Lab_Practical.dir/p001.c.obj	52344d6742490860
@@ -15,3 +15,8 @@
 1	119	7207865038011115	CMakeFiles/Lab_Practical.dir/prac-8.c.obj	68affd11b52fa99
 1	122	7207893351794576	CMakeFiles/Lab_Practical.dir/prac-9.c.obj	7b7e77bcab61f1ae
 3	101	7207903779922275	CMakeFiles/Lab_Practical.dir/prac-10.c.obj	9fe256e1dedca7fe
+7	346	7207964374588347	build.ninja	ada2a7d119e61a53
+1	177	7207964377764943	CMakeFiles/Lab_Practical.dir/prac-11.c.obj	234b8e51e5632747
+178	352	7207964379486697	Lab_Practical.exe	ab94585b14dad0f
+4	109	7207964839859473	CMakeFiles/Lab_Practical.dir/prac-11.c.obj	234b8e51e5632747
+110	218	7207964840842908	Lab_Practical.exe	ab94585b14dad0f

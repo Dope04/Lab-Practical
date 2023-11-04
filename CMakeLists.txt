@@ -16,5 +16,6 @@ add_executable(Lab_Practical
 #prac-7.c
         #prac-8.c
         #prac-9.c
-        prac-10.c
+        #prac-10.c
+        prac-11.c
 )
