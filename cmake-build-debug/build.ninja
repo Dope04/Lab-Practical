@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/monda/CLionProjects/Lab$ Practical/cmake-build-d
 
 build cmake_object_order_depends_target_Lab_Practical: phony || CMakeFiles/Lab_Practical.dir
 
-build CMakeFiles/Lab_Practical.dir/prac-43.c.obj: C_COMPILER__Lab_Practical_unscanned_Debug C$:/Users/monda/CLionProjects/Lab$ Practical/prac-43.c || cmake_object_order_depends_target_Lab_Practical
-  DEP_FILE = CMakeFiles\Lab_Practical.dir\prac-43.c.obj.d
+build CMakeFiles/Lab_Practical.dir/practise.c.obj: C_COMPILER__Lab_Practical_unscanned_Debug C$:/Users/monda/CLionProjects/Lab$ Practical/practise.c || cmake_object_order_depends_target_Lab_Practical
+  DEP_FILE = CMakeFiles\Lab_Practical.dir\practise.c.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Lab_Practical.dir
   OBJECT_FILE_DIR = CMakeFiles\Lab_Practical.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Lab_Practical.dir/prac-43.c.obj: C_COMPILER__Lab_Practical_unsc
 #############################################
 # Link the executable Lab_Practical.exe
 
-build Lab_Practical.exe: C_EXECUTABLE_LINKER__Lab_Practical_Debug CMakeFiles/Lab_Practical.dir/prac-43.c.obj
+build Lab_Practical.exe: C_EXECUTABLE_LINKER__Lab_Practical_Debug CMakeFiles/Lab_Practical.dir/practise.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Lab_Practical.dir
